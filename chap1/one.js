@@ -19,7 +19,7 @@ var you={
 indentify.call(me)
 indentify.call(you)
 
-speak.call(me)
+speak.call(me) // Hello , i am om
 speak.call(you)
 
 
